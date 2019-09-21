@@ -1,0 +1,142 @@
+2019/09/12 06:01:54 version: 20190109
+2019/09/12 06:01:54 initiating key derivation
+2019/09/12 06:01:54 listening on: 155.138.133.83:10066
+2019/09/12 06:01:54 target: 127.0.0.1:10077
+2019/09/12 06:01:54 encryption: aes
+2019/09/12 06:01:54 nodelay parameters: 1 20 2 1
+2019/09/12 06:01:54 sndwnd: 1024 rcvwnd: 1024
+2019/09/12 06:01:54 compression: true
+2019/09/12 06:01:54 mtu: 1350
+2019/09/12 06:01:54 datashard: 70 parityshard: 30
+2019/09/12 06:01:54 acknodelay: false
+2019/09/12 06:01:54 dscp: 46
+2019/09/12 06:01:54 sockbuf: 4194304
+2019/09/12 06:01:54 keepalive: 10
+2019/09/12 06:01:54 snmplog: 
+2019/09/12 06:01:54 snmpperiod: 60
+2019/09/12 06:01:54 pprof: false
+2019/09/12 06:01:54 quiet: false
+2019/09/16 00:35:15 remote address: 175.167.154.159:61170
+2019/09/16 00:40:45 broken pipe
+2019/09/16 02:15:28 remote address: 175.167.154.159:61189
+2019/09/16 02:15:28 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:15:57 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:16:38 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:15 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:24 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:25 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:25 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:27 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:29 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:33 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:18:34 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:19:49 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:20:59 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:22:58 broken pipe
+2019/09/16 02:27:01 remote address: 175.167.154.159:61192
+2019/09/16 02:27:01 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 02:28:01 broken pipe
+2019/09/16 07:36:00 remote address: 120.201.2.141:7105
+2019/09/16 07:36:00 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:00 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:02 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:03 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:03 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:05 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:05 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:11 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:14 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:14 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:14 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:14 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:15 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:15 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:16 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:16 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:17 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:17 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:18 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:18 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:20 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:20 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:21 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:22 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:22 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:23 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:24 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:25 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:26 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:26 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:28 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:28 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:29 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:30 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:30 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:31 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:33 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:33 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:34 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:35 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:35 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:36 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:37 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:39 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:40 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:40 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:41 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:41 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:42 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:43 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:43 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:46 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:47 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:48 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:49 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:49 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:50 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:50 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:51 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:52 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:52 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:54 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:54 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:55 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:56 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:56 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:57 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:57 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:58 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:36:59 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:00 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:00 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:01 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:02 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:02 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:03 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:04 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:05 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:06 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:07 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:07 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:08 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:09 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:10 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:10 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:11 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:11 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:12 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:13 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:14 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:15 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:15 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:16 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:17 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:37:18 dial tcp 127.0.0.1:10077: connect: connection refused
+2019/09/16 07:39:24 remote address: 175.167.154.159:65145
+2019/09/16 07:39:54 broken pipe
+2019/09/16 07:40:00 broken pipe

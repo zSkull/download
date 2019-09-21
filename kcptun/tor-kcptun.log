@@ -1,0 +1,34 @@
+2019/09/12 06:01:54 version: 20190109
+2019/09/12 06:01:54 initiating key derivation
+2019/09/12 06:01:54 listening on: 155.138.133.83:10044
+2019/09/12 06:01:54 target: 155.138.133.83:10055
+2019/09/12 06:01:54 encryption: aes
+2019/09/12 06:01:54 nodelay parameters: 1 20 2 1
+2019/09/12 06:01:54 sndwnd: 1024 rcvwnd: 1024
+2019/09/12 06:01:54 compression: true
+2019/09/12 06:01:54 mtu: 1350
+2019/09/12 06:01:54 datashard: 70 parityshard: 30
+2019/09/12 06:01:54 acknodelay: false
+2019/09/12 06:01:54 dscp: 46
+2019/09/12 06:01:54 sockbuf: 4194304
+2019/09/12 06:01:54 keepalive: 10
+2019/09/12 06:01:54 snmplog: 
+2019/09/12 06:01:54 snmpperiod: 60
+2019/09/12 06:01:54 pprof: false
+2019/09/12 06:01:54 quiet: false
+2019/09/12 06:02:49 remote address: 218.24.66.234:2698
+2019/09/12 06:03:49 remote address: 218.24.66.234:5259
+2019/09/12 06:03:49 broken pipe
+2019/09/12 06:03:49 stream opened
+2019/09/12 06:03:52 stream closed
+2019/09/12 06:04:03 stream opened
+2019/09/12 06:04:13 stream closed
+2019/09/12 06:04:25 stream opened
+2019/09/12 06:04:28 stream closed
+2019/09/12 06:05:19 broken pipe
+2019/09/12 06:09:06 remote address: 218.24.66.234:18262
+2019/09/12 06:09:06 stream opened
+2019/09/12 06:09:13 stream closed
+2019/09/12 06:09:14 stream opened
+2019/09/12 06:09:25 stream closed
+2019/09/12 06:24:36 broken pipe
